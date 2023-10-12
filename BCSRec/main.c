@@ -3,6 +3,10 @@
 
 #include "main.h"
 
+//REQ_001 : This system shall be capable of getting the perimeter of the rectangle
+//			This system shall be capable of getting the area of the rectangle
+//  
+
 void main() {
 	int length = 1;
 	int width = 1;
